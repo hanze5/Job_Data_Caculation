@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46855e00-af94-4ccb-9b1b-5ee03088f473" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eFY4OJYATeYIFnHY1q6MIjD0PF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\pythonWorkSpace\Job_Data_Calculation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\pythonWorkSpace\Job_Data_Calculation\Demands" />
+      <recent name="E:\WorkSpace\pythonWorkSpace\Job_Data_Calculation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Demand4_1">
+    <configuration name="Demand2_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Job_Data_Calculation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demands" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demands/Demand2_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demand3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Job_Data_Calculation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demands" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demands/Demand3_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demand3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Job_Data_Calculation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demands" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demands/Demand3_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demand4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Job_Data_Calculation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demands" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demands/Demand4_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demand5_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Job_Data_Calculation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demands" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demands/Demand5_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Demand4_1" />
+        <item itemvalue="Python.Demand2_2" />
+        <item itemvalue="Python.Demand5_1" />
+        <item itemvalue="Python.Demand3_2" />
+        <item itemvalue="Python.Demand3_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46855e00-af94-4ccb-9b1b-5ee03088f473" name="默认更改列表" comment="" />
+      <created>1593918615297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593918615297</updated>
+      <workItem from="1593918616686" duration="37317000" />
+      <workItem from="1593997117773" duration="3415000" />
+      <workItem from="1594001300798" duration="41546000" />
+      <workItem from="1594089944674" duration="20273000" />
+      <workItem from="1594136175008" duration="1220000" />
+      <workItem from="1594170615127" duration="8332000" />
+      <workItem from="1594179633106" duration="933000" />
+      <workItem from="1594187056642" duration="1465000" />
+      <workItem from="1594189260518" duration="29251000" />
+      <workItem from="1594261707358" duration="1222000" />
+      <workItem from="1594274901676" duration="1096000" />
+      <workItem from="1594278581834" duration="49000" />
+      <workItem from="1594278920212" duration="5011000" />
+      <workItem from="1594285971023" duration="9541000" />
+      <workItem from="1594340506612" duration="2119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Notifications" timestamp="1593948774630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1593948774630" />
+    <state x="606" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594025969229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1594025969229" />
+    <state x="906" y="241" key="#xdebugger.evaluate" timestamp="1594196151269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="906" y="241" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1594196151269" />
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1593918721706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593918721706" />
+    <state width="1493" height="325" key="GridCell.Tab.0.bottom" timestamp="1594314803807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="325" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594314803807" />
+    <state width="1493" height="325" key="GridCell.Tab.0.center" timestamp="1594314803807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="325" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594314803807" />
+    <state width="1493" height="325" key="GridCell.Tab.0.left" timestamp="1594314803807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="325" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594314803807" />
+    <state width="1493" height="325" key="GridCell.Tab.0.right" timestamp="1594314803807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="325" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594314803807" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594229615656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594229615656" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594229615656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594229615656" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594229615656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594229615656" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594229615656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594229615656" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1593918725124">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593918725124" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594093051741">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594093051741" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand4_1.coverage" NAME="Demand4_1 Coverage Results" MODIFIED="1594304358563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_1.coverage" NAME="Demand1_1 Coverage Results" MODIFIED="1594286109137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_5__1_.coverage" NAME="Demand1_5 (1) Coverage Results" MODIFIED="1594011700088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$getDataFromDB.coverage" NAME="getDataFromDB Coverage Results" MODIFIED="1594220783477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_4_1.coverage" NAME="Demand1_4 Coverage Results" MODIFIED="1594028388978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_5.coverage" NAME="Demand1_5 Coverage Results" MODIFIED="1594295551471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand3_1.coverage" NAME="Demand3_1 Coverage Results" MODIFIED="1594296187828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$RDD_Dfr.coverage" NAME="RDD_Dfr Coverage Results" MODIFIED="1593940465770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand2_1.coverage" NAME="Demand2_1 Coverage Results" MODIFIED="1594295993635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$getdata_fromDB.coverage" NAME="getdata_fromDB Coverage Results" MODIFIED="1593936463216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Get_JobData" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_1_1.coverage" NAME="Demand1_1_1 Coverage Results" MODIFIED="1594090509102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1.coverage" NAME="Demand3_2 Coverage Results" MODIFIED="1593950065537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand3_2__1_.coverage" NAME="Demand3_2 (1) Coverage Results" MODIFIED="1593951685928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_3.coverage" NAME="Demand1_3 Coverage Results" MODIFIED="1594294765895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_6.coverage" NAME="Demand1_6 Coverage Results" MODIFIED="1594295668718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand3_2.coverage" NAME="Demand3_2 Coverage Results" MODIFIED="1594296631983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$getdata_fromDB__1_.coverage" NAME="getdata_fromDB (1) Coverage Results" MODIFIED="1593939586617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_2.coverage" NAME="Demand1_2 Coverage Results" MODIFIED="1594293296286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$wtffff.coverage" NAME="wtffff Coverage Results" MODIFIED="1593938036327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_4_1__1_.coverage" NAME="Demand1_4_1 (1) Coverage Results" MODIFIED="1593959107627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand5_1.coverage" NAME="Demand5_1 Coverage Results" MODIFIED="1594301300987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_1_2__1_.coverage" NAME="Demand1_1_2 (1) Coverage Results" MODIFIED="1594053582731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_1_2.coverage" NAME="Demand1_1_2 Coverage Results" MODIFIED="1594119117287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_4_2__1_.coverage" NAME="Demand1_4_2 (1) Coverage Results" MODIFIED="1593965500593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_4_2.coverage" NAME="Demand1_4_2 Coverage Results" MODIFIED="1593960485262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands/spark-warehouse" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand1_4.coverage" NAME="Demand1_4 Coverage Results" MODIFIED="1594295114722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+    <SUITE FILE_PATH="coverage/Job_Data_Calculation$Demand2_2.coverage" NAME="Demand2_2 Coverage Results" MODIFIED="1594302956373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demands" />
+  </component>
+</project>
